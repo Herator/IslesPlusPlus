@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"id": "islesplusplus",
+	"version": "${version}",
+	"name": "Isles++",
+	"description": "An addon for Isles+: a map with waypoints, a health border, item pickups and glowing ground items.",
+	"authors": ["Herator"],
+	"contact": {
+		"sources": "https://github.com/Herator/IslesPlusPlus",
+		"issues": "https://github.com/Herator/IslesPlusPlus/issues"
+	},
+	"license": "Unlicense",
+	"icon": "assets/islesplusplus/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["com.islesplusplus.IslesPlusPlus"]
+	},
+	"mixins": ["islesplusplus.mixins.json"],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*",
+		"islesplus": ">=1.0.3"
+	}
+}
