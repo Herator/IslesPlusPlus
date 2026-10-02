@@ -1,0 +1,6896 @@
+{
+  "pois": [
+    {
+      "group": "POIS",
+      "type": "boss",
+      "name": "Alpha Boar",
+      "icon": "boss_alpha_boar",
+      "x": -335,
+      "y": 104,
+      "z": 750
+    },
+    {
+      "group": "POIS",
+      "type": "boss",
+      "name": "Voras Gravebringer",
+      "icon": "boss_reaper",
+      "x": 488,
+      "y": 54,
+      "z": 1123
+    },
+    {
+      "group": "POIS",
+      "type": "boss",
+      "name": "Harpy Broodmother",
+      "icon": "boss_harpy_broodmother",
+      "x": 701,
+      "y": 102,
+      "z": 1039
+    },
+    {
+      "group": "POIS",
+      "type": "boss",
+      "name": "Queen Bee",
+      "icon": "boss_queen_bee",
+      "x": 273,
+      "y": -28,
+      "z": 1557
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Tortuga Waystone",
+      "x": 460,
+      "y": 36,
+      "z": 1380
+    },
+    {
+      "group": "STATIONS",
+      "type": "smithing",
+      "x": 461,
+      "y": 37,
+      "z": 1394
+    },
+    {
+      "group": "STATIONS",
+      "type": "bank",
+      "x": 440,
+      "y": 38,
+      "z": 1386
+    },
+    {
+      "group": "STATIONS",
+      "type": "artisan",
+      "x": 468,
+      "y": 38,
+      "z": 1400
+    },
+    {
+      "group": "STATIONS",
+      "type": "artisan",
+      "x": 470,
+      "y": 38,
+      "z": 1396
+    },
+    {
+      "group": "STATIONS",
+      "type": "runecrafting",
+      "x": 472,
+      "y": 39,
+      "z": 1366
+    },
+    {
+      "group": "STATIONS",
+      "type": "augmenting",
+      "x": 450,
+      "y": 36,
+      "z": 1409
+    },
+    {
+      "group": "STATIONS",
+      "type": "cooking",
+      "x": 486,
+      "y": 39,
+      "z": 1388
+    },
+    {
+      "group": "STATIONS",
+      "type": "fletching",
+      "x": 473,
+      "y": 38,
+      "z": 1422
+    },
+    {
+      "group": "STATIONS",
+      "type": "auction house",
+      "x": 468,
+      "y": 39,
+      "z": 1412
+    },
+    {
+      "group": "STATIONS",
+      "type": "alchemy",
+      "x": 435,
+      "y": 47,
+      "z": 1337
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 443,
+      "y": 48,
+      "z": 1449
+    },
+    {
+      "group": "FARMING",
+      "type": "corn field",
+      "x": 395,
+      "y": 39,
+      "z": 1422
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 451,
+      "y": 46,
+      "z": 1474
+    },
+    {
+      "group": "FARMING",
+      "type": "corn field",
+      "x": 416,
+      "y": 36,
+      "z": 1436
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 483,
+      "y": 44,
+      "z": 1460
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 456,
+      "y": 86,
+      "z": 1490
+    },
+    {
+      "group": "FARMING",
+      "type": "corn field",
+      "x": 393,
+      "y": 37,
+      "z": 1436
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 432,
+      "y": 47,
+      "z": 1459
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 520,
+      "y": 51,
+      "z": 1426
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 506,
+      "y": 51,
+      "z": 1460
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 508,
+      "y": 51,
+      "z": 1458
+    },
+    {
+      "group": "STATIONS",
+      "type": "wandering zookeeper",
+      "x": 491,
+      "y": 37,
+      "z": 1384
+    },
+    {
+      "group": "STATIONS",
+      "type": "merchant",
+      "x": 502,
+      "y": 37,
+      "z": 1373
+    },
+    {
+      "group": "FARMING",
+      "type": "corn field",
+      "x": 382,
+      "y": 39,
+      "z": 1437
+    },
+    {
+      "group": "FARMING",
+      "type": "corn field",
+      "x": 388,
+      "y": 37,
+      "z": 1446
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 520,
+      "y": 51,
+      "z": 1453
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 533,
+      "y": 52,
+      "z": 1430
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 406,
+      "y": 53,
+      "z": 1465
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 547,
+      "y": 54,
+      "z": 1434
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Tortuga Connector Waystone",
+      "x": 523,
+      "y": 43,
+      "z": 1282
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 490,
+      "y": 98,
+      "z": 1503
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 483,
+      "y": 98,
+      "z": 1506
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 540,
+      "y": 47,
+      "z": 1297
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 506,
+      "y": 105,
+      "z": 1493
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 535,
+      "y": 110,
+      "z": 1483
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 560,
+      "y": 55,
+      "z": 1443
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 554,
+      "y": 65,
+      "z": 1467
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 553,
+      "y": 64,
+      "z": 1471
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 607,
+      "y": 23,
+      "z": 1404
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 586,
+      "y": 60,
+      "z": 1431
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 615,
+      "y": 66,
+      "z": 1413
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 566,
+      "y": 65,
+      "z": 1462
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 572,
+      "y": 64,
+      "z": 1464
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 616,
+      "y": 4,
+      "z": 1404
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 601,
+      "y": 3,
+      "z": 1402
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 322,
+      "y": 37,
+      "z": 1443
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 386,
+      "y": 53,
+      "z": 1500
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 347,
+      "y": 57,
+      "z": 1489
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 335,
+      "y": 55,
+      "z": 1482
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 483,
+      "y": 45,
+      "z": 1524
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 442,
+      "y": 40,
+      "z": 1539
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 432,
+      "y": -3,
+      "z": 1547
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 465,
+      "y": 40,
+      "z": 1541
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 411,
+      "y": 2,
+      "z": 1549
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 483,
+      "y": 39,
+      "z": 1535
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 546,
+      "y": 106,
+      "z": 1494
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 544,
+      "y": 100,
+      "z": 1506
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 465,
+      "y": 40,
+      "z": 1552
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 493,
+      "y": 40,
+      "z": 1526
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 466,
+      "y": 39,
+      "z": 1570
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 424,
+      "y": -1,
+      "z": 1535
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 400,
+      "y": 2,
+      "z": 1551
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 449,
+      "y": 0,
+      "z": 1586
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 463,
+      "y": 41,
+      "z": 1587
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 470,
+      "y": 41,
+      "z": 1590
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 467,
+      "y": 41,
+      "z": 1587
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 599,
+      "y": 59,
+      "z": 1447
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 571,
+      "y": 45,
+      "z": 1570
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 600,
+      "y": 51,
+      "z": 1502
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 601,
+      "y": 49,
+      "z": 1511
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 542,
+      "y": 109,
+      "z": 1578
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 540,
+      "y": 104,
+      "z": 1570
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 518,
+      "y": 65,
+      "z": 1593
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 541,
+      "y": 92,
+      "z": 1603
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 536,
+      "y": 76,
+      "z": 1556
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 496,
+      "y": 39,
+      "z": 1615
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 441,
+      "y": 62,
+      "z": 1609
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 525,
+      "y": 58,
+      "z": 1583
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 589,
+      "y": 46,
+      "z": 1551
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 463,
+      "y": 68,
+      "z": 1575
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 383,
+      "y": -8,
+      "z": 1561
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 391,
+      "y": -4,
+      "z": 1554
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 570,
+      "y": 47,
+      "z": 1617
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 570,
+      "y": 54,
+      "z": 1601
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 499,
+      "y": 13,
+      "z": 1640
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 521,
+      "y": 40,
+      "z": 1620
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 543,
+      "y": 47,
+      "z": 1624
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 473,
+      "y": 40,
+      "z": 1632
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 466,
+      "y": 43,
+      "z": 1638
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 472,
+      "y": 39,
+      "z": 1645
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 452,
+      "y": 63,
+      "z": 1619
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 586,
+      "y": 46,
+      "z": 1596
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 617,
+      "y": 62,
+      "z": 1480
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 619,
+      "y": 42,
+      "z": 1506
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 466,
+      "y": -1,
+      "z": 1641
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 460,
+      "y": 18,
+      "z": 1621
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 424,
+      "y": -1,
+      "z": 1623
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 463,
+      "y": -8,
+      "z": 1630
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 467,
+      "y": 0,
+      "z": 1621
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 442,
+      "y": -8,
+      "z": 1624
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 418,
+      "y": -1,
+      "z": 1610
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 635,
+      "y": 25,
+      "z": 1548
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 628,
+      "y": 25,
+      "z": 1576
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 619,
+      "y": 60,
+      "z": 1457
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 649,
+      "y": 32,
+      "z": 1476
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 580,
+      "y": 42,
+      "z": 1627
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 607,
+      "y": 60,
+      "z": 1450
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 617,
+      "y": 23,
+      "z": 1581
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 640,
+      "y": 23,
+      "z": 1533
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 622,
+      "y": 57,
+      "z": 1462
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 617,
+      "y": 63,
+      "z": 1438
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Boneyard Waystone",
+      "x": 640,
+      "y": 45,
+      "z": 1606
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 644,
+      "y": 12,
+      "z": 1407
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 626,
+      "y": 4,
+      "z": 1400
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 663,
+      "y": 3,
+      "z": 1430
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 629,
+      "y": 3,
+      "z": 1661
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 651,
+      "y": 9,
+      "z": 1664
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 572,
+      "y": 51,
+      "z": 1657
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 561,
+      "y": 49,
+      "z": 1651
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 567,
+      "y": 50,
+      "z": 1657
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 587,
+      "y": 55,
+      "z": 1683
+    },
+    {
+      "group": "FARMING",
+      "type": "garlic field",
+      "x": 584,
+      "y": 55,
+      "z": 1676
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 655,
+      "y": 6,
+      "z": 1675
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 587,
+      "y": 55,
+      "z": 1675
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 646,
+      "y": 3,
+      "z": 1681
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 662,
+      "y": 4,
+      "z": 1404
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 653,
+      "y": 5,
+      "z": 1400
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 645,
+      "y": 3,
+      "z": 1393
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Slime Island Waystone",
+      "x": 729,
+      "y": 45,
+      "z": 1344
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Arachnid\u0027s Summit Waystone",
+      "x": 392,
+      "y": 113,
+      "z": 1162
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Spider Forest Waystone",
+      "x": 458,
+      "y": 103,
+      "z": 1042
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 600,
+      "y": 76,
+      "z": 1077
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 610,
+      "y": 80,
+      "z": 1105
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 619,
+      "y": 77,
+      "z": 1089
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 597,
+      "y": 103,
+      "z": 1056
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 633,
+      "y": 52,
+      "z": 1106
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 594,
+      "y": 126,
+      "z": 1020
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 605,
+      "y": 124,
+      "z": 1029
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 653,
+      "y": 91,
+      "z": 1044
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 617,
+      "y": 122,
+      "z": 1023
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Harpy Nest Waystone",
+      "x": 595,
+      "y": 126,
+      "z": 985
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 668,
+      "y": 115,
+      "z": 997
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 706,
+      "y": 50,
+      "z": 1050
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 725,
+      "y": 49,
+      "z": 1039
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 711,
+      "y": 81,
+      "z": 959
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 698,
+      "y": 78,
+      "z": 955
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 597,
+      "y": 128,
+      "z": 977
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 610,
+      "y": 126,
+      "z": 940
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 725,
+      "y": 43,
+      "z": 962
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 645,
+      "y": 102,
+      "z": 918
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 672,
+      "y": 77,
+      "z": 922
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 721,
+      "y": 44,
+      "z": 915
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 694,
+      "y": 79,
+      "z": 917
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 613,
+      "y": 128,
+      "z": 891
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 724,
+      "y": 44,
+      "z": 928
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 637,
+      "y": 122,
+      "z": 882
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 655,
+      "y": 116,
+      "z": 876
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Void Camp Waystone",
+      "x": 666,
+      "y": 113,
+      "z": 863
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 606,
+      "y": 128,
+      "z": 876
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 667,
+      "y": 114,
+      "z": 870
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 656,
+      "y": 112,
+      "z": 854
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 625,
+      "y": 122,
+      "z": 842
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 566,
+      "y": 115,
+      "z": 890
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 551,
+      "y": 121,
+      "z": 861
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 687,
+      "y": 78,
+      "z": 823
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 557,
+      "y": 127,
+      "z": 901
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 652,
+      "y": 99,
+      "z": 828
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 626,
+      "y": 102,
+      "z": 825
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 541,
+      "y": 126,
+      "z": 888
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 532,
+      "y": 127,
+      "z": 907
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 555,
+      "y": 125,
+      "z": 878
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 564,
+      "y": 123,
+      "z": 864
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 567,
+      "y": 104,
+      "z": 835
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 537,
+      "y": 122,
+      "z": 873
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 515,
+      "y": 129,
+      "z": 916
+    },
+    {
+      "group": "FISHING",
+      "type": "warm pond fishing spot",
+      "x": 549,
+      "y": 103,
+      "z": 835
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 511,
+      "y": 125,
+      "z": 894
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 553,
+      "y": 103,
+      "z": 834
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 537,
+      "y": 103,
+      "z": 844
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 527,
+      "y": 57,
+      "z": 840
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 497,
+      "y": 67,
+      "z": 877
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 522,
+      "y": 57,
+      "z": 844
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 522,
+      "y": 119,
+      "z": 856
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 492,
+      "y": 125,
+      "z": 903
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": 504,
+      "y": 109,
+      "z": 859
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 421,
+      "y": 76,
+      "z": 960
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 430,
+      "y": 76,
+      "z": 960
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 417,
+      "y": 42,
+      "z": 976
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 466,
+      "y": 54,
+      "z": 889
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 414,
+      "y": 42,
+      "z": 985
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 415,
+      "y": 40,
+      "z": 957
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 424,
+      "y": 60,
+      "z": 906
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 430,
+      "y": 60,
+      "z": 910
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 526,
+      "y": 100,
+      "z": 824
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 516,
+      "y": 57,
+      "z": 822
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 530,
+      "y": 56,
+      "z": 835
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 487,
+      "y": 56,
+      "z": 841
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 476,
+      "y": 53,
+      "z": 833
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 459,
+      "y": 114,
+      "z": 845
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 482,
+      "y": 111,
+      "z": 848
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 505,
+      "y": 108,
+      "z": 846
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 535,
+      "y": 102,
+      "z": 818
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 501,
+      "y": 98,
+      "z": 825
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 476,
+      "y": 62,
+      "z": 858
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": 489,
+      "y": 108,
+      "z": 861
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": 493,
+      "y": 107,
+      "z": 856
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": 500,
+      "y": 107,
+      "z": 854
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 415,
+      "y": 33,
+      "z": 865
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 423,
+      "y": 67,
+      "z": 845
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 560,
+      "y": 43,
+      "z": 789
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 406,
+      "y": 39,
+      "z": 944
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 443,
+      "y": 62,
+      "z": 822
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 411,
+      "y": 33,
+      "z": 861
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 546,
+      "y": 65,
+      "z": 786
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 505,
+      "y": 47,
+      "z": 813
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 509,
+      "y": 47,
+      "z": 817
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 538,
+      "y": 48,
+      "z": 806
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 516,
+      "y": 47,
+      "z": 799
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 506,
+      "y": 52,
+      "z": 807
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 532,
+      "y": 40,
+      "z": 782
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 481,
+      "y": 65,
+      "z": 822
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 509,
+      "y": 90,
+      "z": 792
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 500,
+      "y": 90,
+      "z": 790
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 455,
+      "y": 90,
+      "z": 808
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 473,
+      "y": 113,
+      "z": 833
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 492,
+      "y": 89,
+      "z": 802
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 455,
+      "y": 89,
+      "z": 823
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 511,
+      "y": 89,
+      "z": 802
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 444,
+      "y": 87,
+      "z": 843
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 421,
+      "y": 30,
+      "z": 879
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 439,
+      "y": 53,
+      "z": 814
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 549,
+      "y": 79,
+      "z": 798
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 407,
+      "y": 77,
+      "z": 922
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 422,
+      "y": 33,
+      "z": 871
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Dripstone Cave Waystone",
+      "x": 482,
+      "y": 58,
+      "z": 784
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 565,
+      "y": 65,
+      "z": 767
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 627,
+      "y": 91,
+      "z": 799
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 499,
+      "y": 71,
+      "z": 760
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 427,
+      "y": 85,
+      "z": 827
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 544,
+      "y": 64,
+      "z": 765
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 554,
+      "y": 65,
+      "z": 762
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 467,
+      "y": 58,
+      "z": 793
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 524,
+      "y": 68,
+      "z": 774
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": 527,
+      "y": 28,
+      "z": 759
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": 525,
+      "y": 30,
+      "z": 767
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": 532,
+      "y": 31,
+      "z": 763
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": 554,
+      "y": 42,
+      "z": 759
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": 537,
+      "y": 41,
+      "z": 769
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": 542,
+      "y": 41,
+      "z": 765
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": 551,
+      "y": 41,
+      "z": 767
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": 557,
+      "y": 42,
+      "z": 771
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 446,
+      "y": 43,
+      "z": 755
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 400,
+      "y": 56,
+      "z": 829
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 393,
+      "y": 33,
+      "z": 855
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 409,
+      "y": 82,
+      "z": 802
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 419,
+      "y": 41,
+      "z": 791
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 432,
+      "y": 43,
+      "z": 759
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 387,
+      "y": 34,
+      "z": 845
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 390,
+      "y": 50,
+      "z": 894
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 391,
+      "y": 51,
+      "z": 900
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 385,
+      "y": 30,
+      "z": 858
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 383,
+      "y": 37,
+      "z": 841
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 384,
+      "y": 36,
+      "z": 831
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 391,
+      "y": 33,
+      "z": 772
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 363,
+      "y": 32,
+      "z": 895
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 368,
+      "y": 32,
+      "z": 890
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 373,
+      "y": 33,
+      "z": 840
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 393,
+      "y": 78,
+      "z": 925
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 372,
+      "y": 30,
+      "z": 819
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 353,
+      "y": 30,
+      "z": 892
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 398,
+      "y": 78,
+      "z": 933
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 357,
+      "y": 33,
+      "z": 895
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 372,
+      "y": 32,
+      "z": 888
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 373,
+      "y": 33,
+      "z": 834
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 366,
+      "y": 33,
+      "z": 766
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 674,
+      "y": 73,
+      "z": 791
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 671,
+      "y": 58,
+      "z": 783
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 652,
+      "y": 91,
+      "z": 795
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 321,
+      "y": 68,
+      "z": 811
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 343,
+      "y": 42,
+      "z": 809
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 353,
+      "y": 33,
+      "z": 903
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 346,
+      "y": 30,
+      "z": 894
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 309,
+      "y": 65,
+      "z": 845
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 345,
+      "y": 33,
+      "z": 905
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 349,
+      "y": 35,
+      "z": 908
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 355,
+      "y": 37,
+      "z": 913
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 318,
+      "y": 44,
+      "z": 872
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Cliffside Plains Waystone",
+      "x": 260,
+      "y": 68,
+      "z": 839
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 244,
+      "y": 57,
+      "z": 780
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 253,
+      "y": 55,
+      "z": 795
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 286,
+      "y": 44,
+      "z": 889
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 260,
+      "y": 55,
+      "z": 795
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 271,
+      "y": 68,
+      "z": 838
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 338,
+      "y": 30,
+      "z": 911
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 336,
+      "y": 32,
+      "z": 921
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 344,
+      "y": 33,
+      "z": 940
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 225,
+      "y": 21,
+      "z": 842
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 332,
+      "y": 30,
+      "z": 932
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 343,
+      "y": 34,
+      "z": 929
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 201,
+      "y": 22,
+      "z": 844
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 196,
+      "y": 21,
+      "z": 868
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 257,
+      "y": 41,
+      "z": 928
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 359,
+      "y": 54,
+      "z": 952
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 182,
+      "y": 40,
+      "z": 910
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 154,
+      "y": 27,
+      "z": 846
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 153,
+      "y": 46,
+      "z": 946
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 138,
+      "y": 24,
+      "z": 865
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 186,
+      "y": 43,
+      "z": 959
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 158,
+      "y": 45,
+      "z": 940
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 255,
+      "y": 67,
+      "z": 1007
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 233,
+      "y": 45,
+      "z": 999
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 307,
+      "y": 68,
+      "z": 1004
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Mountain Peaks Waystone",
+      "x": 320,
+      "y": 92,
+      "z": 1033
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 313,
+      "y": 68,
+      "z": 1010
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 304,
+      "y": 68,
+      "z": 1040
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 364,
+      "y": 66,
+      "z": 967
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 358,
+      "y": 66,
+      "z": 966
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 394,
+      "y": 78,
+      "z": 962
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 388,
+      "y": 77,
+      "z": 969
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 343,
+      "y": 56,
+      "z": 1518
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 324,
+      "y": 54,
+      "z": 1481
+    },
+    {
+      "group": "FISHING",
+      "type": "warm pond fishing spot",
+      "x": 303,
+      "y": 35,
+      "z": 1472
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 331,
+      "y": 70,
+      "z": 1536
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 293,
+      "y": 35,
+      "z": 1471
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 310,
+      "y": 53,
+      "z": 1508
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 309,
+      "y": 54,
+      "z": 1534
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 288,
+      "y": 51,
+      "z": 1506
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 287,
+      "y": 36,
+      "z": 1439
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 265,
+      "y": 39,
+      "z": 1366
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 252,
+      "y": 38,
+      "z": 1440
+    },
+    {
+      "group": "FISHING",
+      "type": "warm pond fishing spot",
+      "x": 251,
+      "y": 36,
+      "z": 1460
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 244,
+      "y": 37,
+      "z": 1458
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 365,
+      "y": -13,
+      "z": 1569
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 349,
+      "y": 41,
+      "z": 1583
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 337,
+      "y": -12,
+      "z": 1578
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 352,
+      "y": -13,
+      "z": 1585
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 324,
+      "y": 75,
+      "z": 1585
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 304,
+      "y": 74,
+      "z": 1559
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 359,
+      "y": 39,
+      "z": 1599
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 344,
+      "y": -9,
+      "z": 1595
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 337,
+      "y": -4,
+      "z": 1593
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 350,
+      "y": -11,
+      "z": 1603
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 343,
+      "y": -6,
+      "z": 1600
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 390,
+      "y": -10,
+      "z": 1628
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 369,
+      "y": -7,
+      "z": 1639
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 281,
+      "y": 66,
+      "z": 1573
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 264,
+      "y": 35,
+      "z": 1499
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 322,
+      "y": 39,
+      "z": 1625
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 343,
+      "y": 39,
+      "z": 1628
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 254,
+      "y": 89,
+      "z": 1559
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 277,
+      "y": 156,
+      "z": 1570
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 261,
+      "y": 121,
+      "z": 1564
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 288,
+      "y": 106,
+      "z": 1598
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 262,
+      "y": 45,
+      "z": 1531
+    },
+    {
+      "group": "FISHING",
+      "type": "warm pond fishing spot",
+      "x": 265,
+      "y": 35,
+      "z": 1503
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 401,
+      "y": 40,
+      "z": 1657
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 396,
+      "y": 39,
+      "z": 1652
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 377,
+      "y": -3,
+      "z": 1643
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 387,
+      "y": 1,
+      "z": 1657
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 382,
+      "y": -1,
+      "z": 1653
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 344,
+      "y": -7,
+      "z": 1648
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 355,
+      "y": -7,
+      "z": 1643
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 347,
+      "y": -7,
+      "z": 1654
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 406,
+      "y": -3,
+      "z": 1634
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Giant\u0027s Field Waystone",
+      "x": 217,
+      "y": 35,
+      "z": 1512
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 258,
+      "y": 67,
+      "z": 1584
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 231,
+      "y": 57,
+      "z": 1559
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 287,
+      "y": 58,
+      "z": 1640
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 258,
+      "y": 100,
+      "z": 1577
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 251,
+      "y": 97,
+      "z": 1549
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 301,
+      "y": 26,
+      "z": 1633
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 225,
+      "y": 35,
+      "z": 1499
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 248,
+      "y": 43,
+      "z": 1524
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 279,
+      "y": 40,
+      "z": 1617
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 305,
+      "y": 78,
+      "z": 1644
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 271,
+      "y": 47,
+      "z": 1638
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 182,
+      "y": 41,
+      "z": 1532
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 222,
+      "y": 38,
+      "z": 1459
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 199,
+      "y": 37,
+      "z": 1481
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 245,
+      "y": 58,
+      "z": 1642
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 253,
+      "y": 42,
+      "z": 1648
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 193,
+      "y": 53,
+      "z": 1406
+    },
+    {
+      "group": "FISHING",
+      "type": "warm pond fishing spot",
+      "x": 189,
+      "y": 36,
+      "z": 1383
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": 160,
+      "y": 34,
+      "z": 1378
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 266,
+      "y": 85,
+      "z": 1651
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 279,
+      "y": 47,
+      "z": 1653
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 258,
+      "y": 30,
+      "z": 1658
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 250,
+      "y": 60,
+      "z": 1661
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 256,
+      "y": 33,
+      "z": 1685
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 271,
+      "y": 34,
+      "z": 1680
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 267,
+      "y": 28,
+      "z": 1670
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 283,
+      "y": 75,
+      "z": 1673
+    },
+    {
+      "group": "FARMING",
+      "type": "corn field",
+      "x": 225,
+      "y": 47,
+      "z": 1688
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 294,
+      "y": 13,
+      "z": 1678
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 263,
+      "y": 14,
+      "z": 1694
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 246,
+      "y": 15,
+      "z": 1681
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 287,
+      "y": 14,
+      "z": 1672
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 200,
+      "y": 49,
+      "z": 1693
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 293,
+      "y": 69,
+      "z": 1658
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Guild Fortress Waystone",
+      "x": 239,
+      "y": 47,
+      "z": 1728
+    },
+    {
+      "group": "FARMING",
+      "type": "corn field",
+      "x": 257,
+      "y": 46,
+      "z": 1724
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 294,
+      "y": 22,
+      "z": 1704
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 260,
+      "y": 19,
+      "z": 1713
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 246,
+      "y": 49,
+      "z": 1712
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 326,
+      "y": 101,
+      "z": 1667
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 314,
+      "y": 78,
+      "z": 1686
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 348,
+      "y": 52,
+      "z": 1675
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 276,
+      "y": 45,
+      "z": 1731
+    },
+    {
+      "group": "FARMING",
+      "type": "corn field",
+      "x": 258,
+      "y": 47,
+      "z": 1748
+    },
+    {
+      "group": "MINING",
+      "type": "silver ore",
+      "x": 320,
+      "y": 15,
+      "z": 1681
+    },
+    {
+      "group": "FISHING",
+      "type": "warm pond fishing spot",
+      "x": 278,
+      "y": 45,
+      "z": 1722
+    },
+    {
+      "group": "MINING",
+      "type": "rune essence",
+      "x": 334,
+      "y": 57,
+      "z": 1683
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 306,
+      "y": 45,
+      "z": 1747
+    },
+    {
+      "group": "FARMING",
+      "type": "corn field",
+      "x": 286,
+      "y": 46,
+      "z": 1763
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 225,
+      "y": 49,
+      "z": 1767
+    },
+    {
+      "group": "FISHING",
+      "type": "warm pond fishing spot",
+      "x": 315,
+      "y": 44,
+      "z": 1746
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 341,
+      "y": 56,
+      "z": 1735
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 362,
+      "y": 14,
+      "z": 1682
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 307,
+      "y": 51,
+      "z": 1805
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 386,
+      "y": 41,
+      "z": 1690
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 376,
+      "y": 17,
+      "z": 1677
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 368,
+      "y": 22,
+      "z": 1716
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 366,
+      "y": -5,
+      "z": 1669
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 404,
+      "y": 39,
+      "z": 1663
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 418,
+      "y": 39,
+      "z": 1722
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 396,
+      "y": 39,
+      "z": 1699
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 393,
+      "y": 52,
+      "z": 1743
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 420,
+      "y": 40,
+      "z": 1713
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 386,
+      "y": 40,
+      "z": 1713
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 394,
+      "y": 18,
+      "z": 1664
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 392,
+      "y": 14,
+      "z": 1688
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 407,
+      "y": 18,
+      "z": 1714
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 409,
+      "y": -2,
+      "z": 1665
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 415,
+      "y": -2,
+      "z": 1672
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 359,
+      "y": 3,
+      "z": 1853
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 323,
+      "y": 4,
+      "z": 1883
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 339,
+      "y": 5,
+      "z": 1869
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 387,
+      "y": 54,
+      "z": 1802
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 408,
+      "y": 48,
+      "z": 1783
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Void Outpost Waystone",
+      "x": 450,
+      "y": 47,
+      "z": 1764
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 424,
+      "y": 17,
+      "z": 1691
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 429,
+      "y": 41,
+      "z": 1709
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 439,
+      "y": 6,
+      "z": 1714
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "ash tree",
+      "x": 425,
+      "y": 54,
+      "z": 1750
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 431,
+      "y": 41,
+      "z": 1707
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Turtle Beach Waystone",
+      "x": 384,
+      "y": 3,
+      "z": 1878
+    },
+    {
+      "group": "STATIONS",
+      "type": "bank",
+      "x": 458,
+      "y": 20,
+      "z": 1814
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 447,
+      "y": 18,
+      "z": 1670
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 460,
+      "y": 16,
+      "z": 1696
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 451,
+      "y": -2,
+      "z": 1676
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 447,
+      "y": 0,
+      "z": 1685
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 430,
+      "y": -2,
+      "z": 1673
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 436,
+      "y": -2,
+      "z": 1652
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 462,
+      "y": 42,
+      "z": 1693
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 442,
+      "y": 3,
+      "z": 1705
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 446,
+      "y": 0,
+      "z": 1691
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 466,
+      "y": 41,
+      "z": 1689
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 427,
+      "y": 18,
+      "z": 1673
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 472,
+      "y": 4,
+      "z": 1708
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 462,
+      "y": 0,
+      "z": 1693
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 440,
+      "y": 25,
+      "z": 1652
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 457,
+      "y": -2,
+      "z": 1661
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 450,
+      "y": -2,
+      "z": 1661
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 466,
+      "y": 4,
+      "z": 1680
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 461,
+      "y": 40,
+      "z": 1651
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 472,
+      "y": 39,
+      "z": 1687
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 499,
+      "y": 2,
+      "z": 1686
+    },
+    {
+      "group": "MINING",
+      "type": "nickel ore",
+      "x": 511,
+      "y": 0,
+      "z": 1675
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 499,
+      "y": 39,
+      "z": 1671
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 483,
+      "y": 40,
+      "z": 1692
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "palm tree",
+      "x": 490,
+      "y": 39,
+      "z": 1698
+    },
+    {
+      "group": "MINING",
+      "type": "rhodonite ore",
+      "x": 477,
+      "y": 0,
+      "z": 1698
+    },
+    {
+      "group": "STATIONS",
+      "type": "auction house",
+      "x": 470,
+      "y": 19,
+      "z": 1818
+    },
+    {
+      "group": "STATIONS",
+      "type": "runecrafting",
+      "x": 503,
+      "y": 31,
+      "z": 1847
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Frog City Waystone",
+      "x": 503,
+      "y": 25,
+      "z": 1862
+    },
+    {
+      "group": "STATIONS",
+      "type": "alchemy",
+      "x": 520,
+      "y": 27,
+      "z": 1854
+    },
+    {
+      "group": "STATIONS",
+      "type": "fletching",
+      "x": 485,
+      "y": 26,
+      "z": 1880
+    },
+    {
+      "group": "STATIONS",
+      "type": "smithing",
+      "x": 493,
+      "y": 28,
+      "z": 1889
+    },
+    {
+      "group": "STATIONS",
+      "type": "artisan",
+      "x": 504,
+      "y": 26,
+      "z": 1883
+    },
+    {
+      "group": "STATIONS",
+      "type": "artisan",
+      "x": 504,
+      "y": 26,
+      "z": 1890
+    },
+    {
+      "group": "STATIONS",
+      "type": "augmenting",
+      "x": 531,
+      "y": 26,
+      "z": 1873
+    },
+    {
+      "group": "STATIONS",
+      "type": "cooking",
+      "x": 524,
+      "y": 29,
+      "z": 1899
+    },
+    {
+      "group": "FISHING",
+      "type": "warm beach fishing spot",
+      "x": 393,
+      "y": 3,
+      "z": 1890
+    },
+    {
+      "group": "FARMING",
+      "type": "sugarcane field",
+      "x": 379,
+      "y": 4,
+      "z": 1889
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -35,
+      "y": 91,
+      "z": 782
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -9,
+      "y": 93,
+      "z": 768
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -36,
+      "y": 92,
+      "z": 751
+    },
+    {
+      "group": "FISHING",
+      "type": "pond fishing spot",
+      "x": -64,
+      "y": 82,
+      "z": 767
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -56,
+      "y": 82,
+      "z": 754
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -55,
+      "y": 82,
+      "z": 737
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": 7,
+      "y": 93,
+      "z": 747
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -90,
+      "y": 82,
+      "z": 791
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -34,
+      "y": 82,
+      "z": 718
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -95,
+      "y": 82,
+      "z": 766
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -71,
+      "y": 82,
+      "z": 800
+    },
+    {
+      "group": "FISHING",
+      "type": "beach fishing spot",
+      "x": -4,
+      "y": 61,
+      "z": 716
+    },
+    {
+      "group": "FISHING",
+      "type": "beach fishing spot",
+      "x": -16,
+      "y": 61,
+      "z": 710
+    },
+    {
+      "group": "FISHING",
+      "type": "beach fishing spot",
+      "x": -32,
+      "y": 61,
+      "z": 692
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Airship Port Waystone",
+      "x": -53,
+      "y": 81,
+      "z": 728
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -143,
+      "y": 92,
+      "z": 793
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -117,
+      "y": 77,
+      "z": 750
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -109,
+      "y": 88,
+      "z": 819
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -46,
+      "y": 25,
+      "z": 656
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -115,
+      "y": 88,
+      "z": 812
+    },
+    {
+      "group": "FISHING",
+      "type": "beach fishing spot",
+      "x": -4,
+      "y": 61,
+      "z": 651
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -149,
+      "y": 93,
+      "z": 767
+    },
+    {
+      "group": "FISHING",
+      "type": "beach fishing spot",
+      "x": -56,
+      "y": 61,
+      "z": 672
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -124,
+      "y": 69,
+      "z": 729
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -129,
+      "y": 107,
+      "z": 826
+    },
+    {
+      "group": "FISHING",
+      "type": "beach fishing spot",
+      "x": -94,
+      "y": 61,
+      "z": 670
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "South Pond Waystone",
+      "x": -146,
+      "y": 101,
+      "z": 823
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -26,
+      "y": 0,
+      "z": 643
+    },
+    {
+      "group": "FISHING",
+      "type": "beach fishing spot",
+      "x": -113,
+      "y": 61,
+      "z": 669
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -156,
+      "y": 95,
+      "z": 800
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -44,
+      "y": 25,
+      "z": 645
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -23,
+      "y": -17,
+      "z": 643
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -177,
+      "y": 93,
+      "z": 784
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -178,
+      "y": 68,
+      "z": 726
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -183,
+      "y": 93,
+      "z": 796
+    },
+    {
+      "group": "FISHING",
+      "type": "pond fishing spot",
+      "x": -158,
+      "y": 102,
+      "z": 821
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -149,
+      "y": 122,
+      "z": 858
+    },
+    {
+      "group": "FISHING",
+      "type": "pond fishing spot",
+      "x": -168,
+      "y": 121,
+      "z": 851
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -192,
+      "y": 105,
+      "z": 818
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -202,
+      "y": 107,
+      "z": 824
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -187,
+      "y": 122,
+      "z": 848
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -152,
+      "y": 114,
+      "z": 885
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -191,
+      "y": 121,
+      "z": 874
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -211,
+      "y": 106,
+      "z": 878
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -239,
+      "y": 122,
+      "z": 843
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "City Exit Waystone",
+      "x": -233,
+      "y": 90,
+      "z": 685
+    },
+    {
+      "group": "FARMING",
+      "type": "cabbage field",
+      "x": -277,
+      "y": 68,
+      "z": 741
+    },
+    {
+      "group": "FARMING",
+      "type": "cabbage field",
+      "x": -262,
+      "y": 72,
+      "z": 706
+    },
+    {
+      "group": "FARMING",
+      "type": "cabbage field",
+      "x": -269,
+      "y": 71,
+      "z": 724
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -284,
+      "y": 123,
+      "z": 831
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -284,
+      "y": 108,
+      "z": 810
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -203,
+      "y": 91,
+      "z": 684
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -259,
+      "y": 78,
+      "z": 725
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -237,
+      "y": 91,
+      "z": 690
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -265,
+      "y": 123,
+      "z": 836
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -256,
+      "y": 80,
+      "z": 690
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -273,
+      "y": 70,
+      "z": 724
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -261,
+      "y": 66,
+      "z": 742
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -241,
+      "y": 81,
+      "z": 729
+    },
+    {
+      "group": "FISHING",
+      "type": "pond fishing spot",
+      "x": -297,
+      "y": 108,
+      "z": 801
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -255,
+      "y": 123,
+      "z": 872
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -262,
+      "y": 122,
+      "z": 886
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Wharfmolo Connector Waystone",
+      "x": -287,
+      "y": 80,
+      "z": 919
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -320,
+      "y": 122,
+      "z": 852
+    },
+    {
+      "group": "FISHING",
+      "type": "pond fishing spot",
+      "x": -320,
+      "y": 122,
+      "z": 822
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -301,
+      "y": 122,
+      "z": 860
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -329,
+      "y": 122,
+      "z": 828
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -179,
+      "y": 60,
+      "z": 978
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Isle Entry Waystone",
+      "x": -318,
+      "y": 36,
+      "z": 1077
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -296,
+      "y": 85,
+      "z": 1149
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -223,
+      "y": 52,
+      "z": 1079
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -257,
+      "y": 82,
+      "z": 1119
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -261,
+      "y": 89,
+      "z": 1153
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -245,
+      "y": 89,
+      "z": 1164
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Void Mines Waystone",
+      "x": -196,
+      "y": 80,
+      "z": 1106
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -188,
+      "y": 81,
+      "z": 1115
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -196,
+      "y": 50,
+      "z": 1052
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -219,
+      "y": 53,
+      "z": 1048
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -193,
+      "y": 79,
+      "z": 1160
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -174,
+      "y": 78,
+      "z": 1145
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -163,
+      "y": 79,
+      "z": 1119
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -175,
+      "y": 63,
+      "z": 1019
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Fungi Forest Waystone",
+      "x": -119,
+      "y": 66,
+      "z": 1044
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -127,
+      "y": 67,
+      "z": 1034
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -123,
+      "y": 67,
+      "z": 1059
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -145,
+      "y": 68,
+      "z": 1081
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -162,
+      "y": 63,
+      "z": 1009
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -139,
+      "y": 60,
+      "z": 1018
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -99,
+      "y": 67,
+      "z": 1047
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -122,
+      "y": 61,
+      "z": 980
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "fungus tree",
+      "x": -142,
+      "y": 58,
+      "z": 982
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -329,
+      "y": 118,
+      "z": 791
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -343,
+      "y": 121,
+      "z": 793
+    },
+    {
+      "group": "FARMING",
+      "type": "cabbage field",
+      "x": -303,
+      "y": 66,
+      "z": 733
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -351,
+      "y": 106,
+      "z": 773
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -312,
+      "y": 105,
+      "z": 742
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -329,
+      "y": 106,
+      "z": 741
+    },
+    {
+      "group": "FARMING",
+      "type": "cabbage field",
+      "x": -294,
+      "y": 66,
+      "z": 719
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -357,
+      "y": 106,
+      "z": 748
+    },
+    {
+      "group": "FISHING",
+      "type": "beach fishing spot",
+      "x": -314,
+      "y": 61,
+      "z": 703
+    },
+    {
+      "group": "FISHING",
+      "type": "beach fishing spot",
+      "x": -330,
+      "y": 61,
+      "z": 709
+    },
+    {
+      "group": "FISHING",
+      "type": "beach fishing spot",
+      "x": -349,
+      "y": 61,
+      "z": 712
+    },
+    {
+      "group": "FISHING",
+      "type": "beach fishing spot",
+      "x": -368,
+      "y": 61,
+      "z": 720
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -286,
+      "y": 65,
+      "z": 713
+    },
+    {
+      "group": "FARMING",
+      "type": "cabbage field",
+      "x": -280,
+      "y": 66,
+      "z": 700
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -296,
+      "y": 66,
+      "z": 700
+    },
+    {
+      "group": "FISHING",
+      "type": "plains fishing spot",
+      "x": -407,
+      "y": 61,
+      "z": 703
+    },
+    {
+      "group": "FISHING",
+      "type": "plains fishing spot",
+      "x": -385,
+      "y": 61,
+      "z": 681
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -382,
+      "y": 68,
+      "z": 657
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -416,
+      "y": 68,
+      "z": 694
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -394,
+      "y": 66,
+      "z": 672
+    },
+    {
+      "group": "FARMING",
+      "type": "wheat field",
+      "x": -295,
+      "y": 93,
+      "z": 632
+    },
+    {
+      "group": "FARMING",
+      "type": "wheat field",
+      "x": -306,
+      "y": 93,
+      "z": 642
+    },
+    {
+      "group": "FARMING",
+      "type": "wheat field",
+      "x": -263,
+      "y": 92,
+      "z": 642
+    },
+    {
+      "group": "FARMING",
+      "type": "wheat field",
+      "x": -279,
+      "y": 92,
+      "z": 637
+    },
+    {
+      "group": "FARMING",
+      "type": "wheat field",
+      "x": -248,
+      "y": 92,
+      "z": 645
+    },
+    {
+      "group": "STATIONS",
+      "type": "bank",
+      "x": -257,
+      "y": 91,
+      "z": 605
+    },
+    {
+      "group": "STATIONS",
+      "type": "fletching",
+      "x": -273,
+      "y": 91,
+      "z": 603
+    },
+    {
+      "group": "STATIONS",
+      "type": "cooking",
+      "x": -282,
+      "y": 91,
+      "z": 603
+    },
+    {
+      "group": "STATIONS",
+      "type": "smithing",
+      "x": -272,
+      "y": 92,
+      "z": 581
+    },
+    {
+      "group": "STATIONS",
+      "type": "augmenting",
+      "x": -281,
+      "y": 92,
+      "z": 582
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Wharfmolo Waystone",
+      "x": -230,
+      "y": 89,
+      "z": 561
+    },
+    {
+      "group": "STATIONS",
+      "type": "runecrafting",
+      "x": -263,
+      "y": 89,
+      "z": 557
+    },
+    {
+      "group": "STATIONS",
+      "type": "artisan",
+      "x": -246,
+      "y": 89,
+      "z": 551
+    },
+    {
+      "group": "STATIONS",
+      "type": "artisan",
+      "x": -249,
+      "y": 89,
+      "z": 550
+    },
+    {
+      "group": "STATIONS",
+      "type": "alchemy",
+      "x": -235,
+      "y": 90,
+      "z": 547
+    },
+    {
+      "group": "FARMING",
+      "type": "tomato field",
+      "x": -300,
+      "y": 92,
+      "z": 595
+    },
+    {
+      "group": "FARMING",
+      "type": "tomato field",
+      "x": -333,
+      "y": 92,
+      "z": 588
+    },
+    {
+      "group": "FARMING",
+      "type": "tomato field",
+      "x": -316,
+      "y": 93,
+      "z": 593
+    },
+    {
+      "group": "FARMING",
+      "type": "carrot field",
+      "x": -308,
+      "y": 91,
+      "z": 567
+    },
+    {
+      "group": "FARMING",
+      "type": "carrot field",
+      "x": -311,
+      "y": 91,
+      "z": 574
+    },
+    {
+      "group": "STATIONS",
+      "type": "auction house",
+      "x": -193,
+      "y": 89,
+      "z": 543
+    },
+    {
+      "group": "FISHING",
+      "type": "wishing well",
+      "x": -193,
+      "y": 90,
+      "z": 530
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -391,
+      "y": 90,
+      "z": 577
+    },
+    {
+      "group": "FISHING",
+      "type": "plains fishing spot",
+      "x": -315,
+      "y": 63,
+      "z": 518
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -375,
+      "y": 84,
+      "z": 540
+    },
+    {
+      "group": "FARMING",
+      "type": "tomato field",
+      "x": -349,
+      "y": 92,
+      "z": 591
+    },
+    {
+      "group": "FISHING",
+      "type": "wishing well",
+      "x": -197,
+      "y": 90,
+      "z": 526
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -354,
+      "y": 68,
+      "z": 517
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -324,
+      "y": 69,
+      "z": 499
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -374,
+      "y": 68,
+      "z": 637
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -382,
+      "y": 81,
+      "z": 610
+    },
+    {
+      "group": "FARMING",
+      "type": "carrot field",
+      "x": -337,
+      "y": 91,
+      "z": 573
+    },
+    {
+      "group": "FARMING",
+      "type": "carrot field",
+      "x": -344,
+      "y": 91,
+      "z": 567
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Graveyard Waystone",
+      "x": -410,
+      "y": 89,
+      "z": 556
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -394,
+      "y": 90,
+      "z": 552
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -324,
+      "y": 65,
+      "z": 490
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -373,
+      "y": 72,
+      "z": 515
+    },
+    {
+      "group": "FISHING",
+      "type": "wishing well",
+      "x": -189,
+      "y": 90,
+      "z": 526
+    },
+    {
+      "group": "FISHING",
+      "type": "wishing well",
+      "x": -193,
+      "y": 90,
+      "z": 522
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -327,
+      "y": 68,
+      "z": 476
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -405,
+      "y": 81,
+      "z": 523
+    },
+    {
+      "group": "FISHING",
+      "type": "plains fishing spot",
+      "x": -311,
+      "y": 61,
+      "z": 486
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -418,
+      "y": 82,
+      "z": 502
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -420,
+      "y": 82,
+      "z": 473
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -446,
+      "y": 82,
+      "z": 496
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -422,
+      "y": 78,
+      "z": 641
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -413,
+      "y": 78,
+      "z": 649
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -424,
+      "y": 77,
+      "z": 631
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -396,
+      "y": 82,
+      "z": 495
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -427,
+      "y": 82,
+      "z": 487
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -478,
+      "y": 78,
+      "z": 438
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -410,
+      "y": 68,
+      "z": 412
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -393,
+      "y": 66,
+      "z": 434
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -337,
+      "y": 67,
+      "z": 434
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -363,
+      "y": 67,
+      "z": 417
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": -446,
+      "y": 66,
+      "z": 434
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": -442,
+      "y": 74,
+      "z": 442
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": -435,
+      "y": 68,
+      "z": 436
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": -431,
+      "y": 74,
+      "z": 443
+    },
+    {
+      "group": "MINING",
+      "type": "salt",
+      "x": -436,
+      "y": 68,
+      "z": 442
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -404,
+      "y": 67,
+      "z": 433
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -432,
+      "y": 82,
+      "z": 454
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -455,
+      "y": 77,
+      "z": 436
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -465,
+      "y": 83,
+      "z": 468
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -458,
+      "y": 69,
+      "z": 401
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -438,
+      "y": 84,
+      "z": 391
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -371,
+      "y": 67,
+      "z": 410
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -412,
+      "y": 68,
+      "z": 390
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -469,
+      "y": 69,
+      "z": 390
+    },
+    {
+      "group": "FISHING",
+      "type": "plains fishing spot",
+      "x": -367,
+      "y": 61,
+      "z": 387
+    },
+    {
+      "group": "FISHING",
+      "type": "plains fishing spot",
+      "x": -354,
+      "y": 61,
+      "z": 394
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -416,
+      "y": 83,
+      "z": 366
+    },
+    {
+      "group": "FISHING",
+      "type": "pond fishing spot",
+      "x": -438,
+      "y": 83,
+      "z": 366
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -455,
+      "y": 83,
+      "z": 364
+    },
+    {
+      "group": "FISHING",
+      "type": "plains fishing spot",
+      "x": -389,
+      "y": 61,
+      "z": 371
+    },
+    {
+      "group": "FISHING",
+      "type": "plains fishing spot",
+      "x": -378,
+      "y": 61,
+      "z": 378
+    },
+    {
+      "group": "FISHING",
+      "type": "plains fishing spot",
+      "x": -324,
+      "y": 61,
+      "z": 393
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -269,
+      "y": 68,
+      "z": 394
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -268,
+      "y": 69,
+      "z": 357
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -262,
+      "y": 68,
+      "z": 356
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -283,
+      "y": 69,
+      "z": 341
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -278,
+      "y": 68,
+      "z": 379
+    },
+    {
+      "group": "FISHING",
+      "type": "plains fishing spot",
+      "x": -272,
+      "y": 61,
+      "z": 404
+    },
+    {
+      "group": "FISHING",
+      "type": "plains fishing spot",
+      "x": -282,
+      "y": 61,
+      "z": 392
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -251,
+      "y": 64,
+      "z": 411
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -239,
+      "y": 71,
+      "z": 330
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -238,
+      "y": 77,
+      "z": 352
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -260,
+      "y": 69,
+      "z": 323
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -226,
+      "y": 77,
+      "z": 362
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -247,
+      "y": 66,
+      "z": 400
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -234,
+      "y": 93,
+      "z": 388
+    },
+    {
+      "group": "FISHING",
+      "type": "plains fishing spot",
+      "x": -245,
+      "y": 61,
+      "z": 420
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -209,
+      "y": 91,
+      "z": 385
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -207,
+      "y": 91,
+      "z": 413
+    },
+    {
+      "group": "STATIONS",
+      "type": "wandering zookeeper",
+      "x": -206,
+      "y": 90,
+      "z": 544
+    },
+    {
+      "group": "STATIONS",
+      "type": "merchant",
+      "x": -182,
+      "y": 90,
+      "z": 540
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -161,
+      "y": 76,
+      "z": 434
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -78,
+      "y": -36,
+      "z": 552
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -80,
+      "y": -20,
+      "z": 542
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -80,
+      "y": -20,
+      "z": 552
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -81,
+      "y": -15,
+      "z": 567
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "whisper tree",
+      "x": -76,
+      "y": 140,
+      "z": 523
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -89,
+      "y": 126,
+      "z": 486
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -72,
+      "y": 70,
+      "z": 546
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -66,
+      "y": 5,
+      "z": 579
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -70,
+      "y": 62,
+      "z": 548
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -72,
+      "y": 67,
+      "z": 538
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -71,
+      "y": -35,
+      "z": 542
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -75,
+      "y": -17,
+      "z": 517
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -42,
+      "y": 38,
+      "z": 544
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -41,
+      "y": 61,
+      "z": 574
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -63,
+      "y": 60,
+      "z": 576
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -36,
+      "y": 26,
+      "z": 590
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -50,
+      "y": 34,
+      "z": 560
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -44,
+      "y": 24,
+      "z": 603
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -65,
+      "y": 10,
+      "z": 549
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -58,
+      "y": -14,
+      "z": 554
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -45,
+      "y": -14,
+      "z": 541
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -65,
+      "y": -12,
+      "z": 596
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -58,
+      "y": -12,
+      "z": 578
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -36,
+      "y": 4,
+      "z": 586
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -41,
+      "y": -13,
+      "z": 614
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -53,
+      "y": 68,
+      "z": 568
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -73,
+      "y": -34,
+      "z": 519
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -68,
+      "y": -31,
+      "z": 500
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -63,
+      "y": -34,
+      "z": 560
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -57,
+      "y": -22,
+      "z": 540
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -68,
+      "y": -15,
+      "z": 504
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -51,
+      "y": 19,
+      "z": 543
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -52,
+      "y": 25,
+      "z": 597
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -58,
+      "y": 20,
+      "z": 625
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -39,
+      "y": 29,
+      "z": 574
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -39,
+      "y": -2,
+      "z": 557
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -66,
+      "y": 14,
+      "z": 609
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -54,
+      "y": -17,
+      "z": 519
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -57,
+      "y": -21,
+      "z": 524
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -61,
+      "y": -24,
+      "z": 573
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -47,
+      "y": -15,
+      "z": 599
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -57,
+      "y": 12,
+      "z": 602
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -57,
+      "y": -35,
+      "z": 532
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -59,
+      "y": -31,
+      "z": 501
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -68,
+      "y": -35,
+      "z": 531
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -24,
+      "y": 36,
+      "z": 559
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -11,
+      "y": 45,
+      "z": 546
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -28,
+      "y": 43,
+      "z": 526
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -30,
+      "y": 70,
+      "z": 555
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -20,
+      "y": 49,
+      "z": 538
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -17,
+      "y": 62,
+      "z": 573
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -39,
+      "y": 20,
+      "z": 625
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -49,
+      "y": 23,
+      "z": 640
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -30,
+      "y": 27,
+      "z": 525
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -14,
+      "y": 0,
+      "z": 547
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -9,
+      "y": 31,
+      "z": 605
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -29,
+      "y": -14,
+      "z": 621
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -22,
+      "y": -2,
+      "z": 577
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -32,
+      "y": 18,
+      "z": 613
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -14,
+      "y": 26,
+      "z": 607
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -26,
+      "y": 19,
+      "z": 631
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -23,
+      "y": 76,
+      "z": 525
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -32,
+      "y": 77,
+      "z": 515
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -45,
+      "y": 73,
+      "z": 522
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -36,
+      "y": 74,
+      "z": 527
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -24,
+      "y": 62,
+      "z": 576
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -18,
+      "y": 73,
+      "z": 555
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -21,
+      "y": -25,
+      "z": 580
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -31,
+      "y": -27,
+      "z": 601
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -13,
+      "y": -28,
+      "z": 612
+    },
+    {
+      "group": "FISHING",
+      "type": "pond fishing spot",
+      "x": -27,
+      "y": 70,
+      "z": 613
+    },
+    {
+      "group": "FISHING",
+      "type": "pond fishing spot",
+      "x": -26,
+      "y": 70,
+      "z": 630
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -88,
+      "y": 126,
+      "z": 462
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -35,
+      "y": 27,
+      "z": 517
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -22,
+      "y": -28,
+      "z": 596
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -11,
+      "y": -25,
+      "z": 590
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -32,
+      "y": -27,
+      "z": 584
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -27,
+      "y": -28,
+      "z": 617
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -34,
+      "y": 2,
+      "z": 607
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -9,
+      "y": -5,
+      "z": 593
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -23,
+      "y": 6,
+      "z": 568
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -20,
+      "y": 20,
+      "z": 635
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -7,
+      "y": 10,
+      "z": 568
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -34,
+      "y": -12,
+      "z": 599
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -36,
+      "y": 126,
+      "z": 507
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -74,
+      "y": 124,
+      "z": 464
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": 0,
+      "y": 35,
+      "z": 592
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -10,
+      "y": -7,
+      "z": 620
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -6,
+      "y": 1,
+      "z": 620
+    },
+    {
+      "group": "FISHING",
+      "type": "pond fishing spot",
+      "x": -8,
+      "y": 70,
+      "z": 623
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -16,
+      "y": -10,
+      "z": 643
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -18,
+      "y": -29,
+      "z": 634
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Rooted Cave Waystone",
+      "x": -78,
+      "y": 92,
+      "z": 434
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -56,
+      "y": 94,
+      "z": 440
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -123,
+      "y": 83,
+      "z": 415
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -36,
+      "y": 117,
+      "z": 484
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -61,
+      "y": 125,
+      "z": 461
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -67,
+      "y": 94,
+      "z": 436
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -132,
+      "y": 76,
+      "z": 406
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -117,
+      "y": 86,
+      "z": 432
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -83,
+      "y": 90,
+      "z": 411
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": 1,
+      "y": 32,
+      "z": 512
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -11,
+      "y": 98,
+      "z": 445
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": 5,
+      "y": 45,
+      "z": 527
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -12,
+      "y": 79,
+      "z": 517
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": 7,
+      "y": 93,
+      "z": 539
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": 0,
+      "y": 32,
+      "z": 535
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -3,
+      "y": 38,
+      "z": 567
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": -5,
+      "y": 7,
+      "z": 586
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": 4,
+      "y": 48,
+      "z": 533
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": 6,
+      "y": 93,
+      "z": 543
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -7,
+      "y": 74,
+      "z": 536
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -1,
+      "y": 57,
+      "z": 552
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -93,
+      "y": 121,
+      "z": 395
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -15,
+      "y": 129,
+      "z": 505
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -30,
+      "y": 110,
+      "z": 470
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": 13,
+      "y": 41,
+      "z": 554
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -171,
+      "y": 76,
+      "z": 394
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": 17,
+      "y": 96,
+      "z": 534
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -16,
+      "y": 94,
+      "z": 425
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -85,
+      "y": 123,
+      "z": 378
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Edge of Wharfmolo Waystone",
+      "x": 40,
+      "y": 88,
+      "z": 450
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -45,
+      "y": 107,
+      "z": 372
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": 21,
+      "y": 91,
+      "z": 554
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": 7,
+      "y": 16,
+      "z": 583
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": 8,
+      "y": 39,
+      "z": 569
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": 0,
+      "y": 107,
+      "z": 396
+    },
+    {
+      "group": "MINING",
+      "type": "iron ore",
+      "x": 6,
+      "y": 23,
+      "z": 593
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": 12,
+      "y": 22,
+      "z": 598
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": 4,
+      "y": 32,
+      "z": 608
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Grudgespeak Entry Waystone",
+      "x": 97,
+      "y": 39,
+      "z": 440
+    },
+    {
+      "group": "FISHING",
+      "type": "pond fishing spot",
+      "x": -70,
+      "y": 122,
+      "z": 353
+    },
+    {
+      "group": "FISHING",
+      "type": "pond fishing spot",
+      "x": -106,
+      "y": 122,
+      "z": 362
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -44,
+      "y": 107,
+      "z": 349
+    },
+    {
+      "group": "FISHING",
+      "type": "pond fishing spot",
+      "x": -82,
+      "y": 122,
+      "z": 342
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -135,
+      "y": 91,
+      "z": 352
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -66,
+      "y": 123,
+      "z": 342
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -92,
+      "y": 123,
+      "z": 330
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -114,
+      "y": 122,
+      "z": 335
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -127,
+      "y": 122,
+      "z": 312
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -174,
+      "y": 76,
+      "z": 367
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -181,
+      "y": 80,
+      "z": 385
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -202,
+      "y": 76,
+      "z": 364
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -169,
+      "y": 91,
+      "z": 335
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -204,
+      "y": 77,
+      "z": 340
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -204,
+      "y": 92,
+      "z": 306
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Isle Entry Waystone",
+      "x": -252,
+      "y": 67,
+      "z": 308
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -249,
+      "y": 79,
+      "z": 163
+    },
+    {
+      "group": "FISHING",
+      "type": "river fishing spot",
+      "x": -299,
+      "y": 63,
+      "z": 145
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -201,
+      "y": 93,
+      "z": 163
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -248,
+      "y": 77,
+      "z": 121
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -202,
+      "y": 79,
+      "z": 120
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -271,
+      "y": 80,
+      "z": 128
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -234,
+      "y": 78,
+      "z": 105
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -317,
+      "y": 67,
+      "z": 149
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -283,
+      "y": 69,
+      "z": 76
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -408,
+      "y": 92,
+      "z": 200
+    },
+    {
+      "group": "FISHING",
+      "type": "river fishing spot",
+      "x": -302,
+      "y": 68,
+      "z": 87
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -376,
+      "y": 81,
+      "z": 107
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -327,
+      "y": 81,
+      "z": 82
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -341,
+      "y": 79,
+      "z": 100
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -396,
+      "y": 80,
+      "z": 98
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -267,
+      "y": 68,
+      "z": 49
+    },
+    {
+      "group": "FISHING",
+      "type": "river fishing spot",
+      "x": -273,
+      "y": 68,
+      "z": 58
+    },
+    {
+      "group": "FISHING",
+      "type": "river fishing spot",
+      "x": -259,
+      "y": 68,
+      "z": 59
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -364,
+      "y": 81,
+      "z": 60
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -416,
+      "y": 79,
+      "z": 108
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -400,
+      "y": 80,
+      "z": 107
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -331,
+      "y": 82,
+      "z": 66
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -231,
+      "y": 94,
+      "z": 74
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -379,
+      "y": 83,
+      "z": 46
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -349,
+      "y": 110,
+      "z": 14
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -297,
+      "y": 111,
+      "z": 4
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -396,
+      "y": 80,
+      "z": 74
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -393,
+      "y": 80,
+      "z": 55
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -368,
+      "y": 108,
+      "z": 5
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -340,
+      "y": 110,
+      "z": 4
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -333,
+      "y": 109,
+      "z": 34
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -246,
+      "y": 72,
+      "z": 9
+    },
+    {
+      "group": "FISHING",
+      "type": "river fishing spot",
+      "x": -237,
+      "y": 68,
+      "z": 28
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -275,
+      "y": 111,
+      "z": -3
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -345,
+      "y": 108,
+      "z": -32
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -314,
+      "y": 112,
+      "z": -21
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -375,
+      "y": 122,
+      "z": -42
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -444,
+      "y": 122,
+      "z": 186
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -435,
+      "y": 94,
+      "z": 224
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Boar Plains Waystone",
+      "x": -191,
+      "y": 82,
+      "z": 83
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Copper Cave Waystone",
+      "x": -234,
+      "y": 72,
+      "z": -10
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -214,
+      "y": 71,
+      "z": 6
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -218,
+      "y": 70,
+      "z": 31
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -212,
+      "y": 93,
+      "z": 57
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -174,
+      "y": 93,
+      "z": 139
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -233,
+      "y": 72,
+      "z": -3
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -248,
+      "y": 73,
+      "z": -25
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -168,
+      "y": 74,
+      "z": 33
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -190,
+      "y": 72,
+      "z": 19
+    },
+    {
+      "group": "FISHING",
+      "type": "river fishing spot",
+      "x": -217,
+      "y": 70,
+      "z": 25
+    },
+    {
+      "group": "FISHING",
+      "type": "river fishing spot",
+      "x": -193,
+      "y": 69,
+      "z": 32
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -210,
+      "y": 98,
+      "z": -18
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -187,
+      "y": 94,
+      "z": 63
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Void Camp Waystone",
+      "x": -229,
+      "y": 95,
+      "z": -45
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Town\u0027s Gate Waystone",
+      "x": -140,
+      "y": 70,
+      "z": 29
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -143,
+      "y": 93,
+      "z": 85
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -172,
+      "y": 75,
+      "z": 7
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -155,
+      "y": 73,
+      "z": 22
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -245,
+      "y": 73,
+      "z": -48
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -194,
+      "y": 100,
+      "z": -15
+    },
+    {
+      "group": "FISHING",
+      "type": "river fishing spot",
+      "x": -171,
+      "y": 73,
+      "z": 17
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -84,
+      "y": 106,
+      "z": 125
+    },
+    {
+      "group": "FARMING",
+      "type": "wheat field",
+      "x": -103,
+      "y": 72,
+      "z": 28
+    },
+    {
+      "group": "FARMING",
+      "type": "wheat field",
+      "x": -119,
+      "y": 72,
+      "z": 38
+    },
+    {
+      "group": "FARMING",
+      "type": "wheat field",
+      "x": -111,
+      "y": 72,
+      "z": 34
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -113,
+      "y": 109,
+      "z": 61
+    },
+    {
+      "group": "FISHING",
+      "type": "river fishing spot",
+      "x": -149,
+      "y": 71,
+      "z": 13
+    },
+    {
+      "group": "FISHING",
+      "type": "river fishing spot",
+      "x": -129,
+      "y": 71,
+      "z": 15
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -102,
+      "y": 67,
+      "z": 48
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -92,
+      "y": 68,
+      "z": 47
+    },
+    {
+      "group": "FARMING",
+      "type": "carrot field",
+      "x": -131,
+      "y": 71,
+      "z": 4
+    },
+    {
+      "group": "FARMING",
+      "type": "tomato field",
+      "x": -123,
+      "y": 70,
+      "z": -12
+    },
+    {
+      "group": "FARMING",
+      "type": "tomato field",
+      "x": -114,
+      "y": 70,
+      "z": -17
+    },
+    {
+      "group": "FARMING",
+      "type": "tomato field",
+      "x": -85,
+      "y": 70,
+      "z": -11
+    },
+    {
+      "group": "FARMING",
+      "type": "tomato field",
+      "x": -107,
+      "y": 70,
+      "z": -8
+    },
+    {
+      "group": "FARMING",
+      "type": "tomato field",
+      "x": -98,
+      "y": 70,
+      "z": -16
+    },
+    {
+      "group": "FISHING",
+      "type": "basic fishing spot",
+      "x": -70,
+      "y": 82,
+      "z": -1
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -42,
+      "y": 106,
+      "z": 129
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -146,
+      "y": 125,
+      "z": -28
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -79,
+      "y": 68,
+      "z": 47
+    },
+    {
+      "group": "FARMING",
+      "type": "carrot field",
+      "x": -112,
+      "y": 71,
+      "z": 0
+    },
+    {
+      "group": "FARMING",
+      "type": "carrot field",
+      "x": -124,
+      "y": 71,
+      "z": 0
+    },
+    {
+      "group": "FARMING",
+      "type": "carrot field",
+      "x": -131,
+      "y": 71,
+      "z": -7
+    },
+    {
+      "group": "FARMING",
+      "type": "carrot field",
+      "x": -138,
+      "y": 71,
+      "z": -7
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -37,
+      "y": 109,
+      "z": 108
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -70,
+      "y": 107,
+      "z": 101
+    },
+    {
+      "group": "STATIONS",
+      "type": "cooking",
+      "x": -44,
+      "y": 86,
+      "z": 19
+    },
+    {
+      "group": "FISHING",
+      "type": "basic fishing spot",
+      "x": -57,
+      "y": 82,
+      "z": 3
+    },
+    {
+      "group": "FISHING",
+      "type": "basic fishing spot",
+      "x": -42,
+      "y": 82,
+      "z": 10
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -3,
+      "y": 114,
+      "z": 105
+    },
+    {
+      "group": "FISHING",
+      "type": "basic fishing spot",
+      "x": -15,
+      "y": 82,
+      "z": 2
+    },
+    {
+      "group": "FISHING",
+      "type": "basic fishing spot",
+      "x": -36,
+      "y": 82,
+      "z": 2
+    },
+    {
+      "group": "FISHING",
+      "type": "basic fishing spot",
+      "x": -26,
+      "y": 82,
+      "z": -3
+    },
+    {
+      "group": "STATIONS",
+      "type": "smithing",
+      "x": -23,
+      "y": 98,
+      "z": -30
+    },
+    {
+      "group": "STATIONS",
+      "type": "artisan",
+      "x": -22,
+      "y": 98,
+      "z": -38
+    },
+    {
+      "group": "STATIONS",
+      "type": "artisan",
+      "x": -24,
+      "y": 98,
+      "z": -44
+    },
+    {
+      "group": "STATIONS",
+      "type": "augmenting",
+      "x": -21,
+      "y": 97,
+      "z": -53
+    },
+    {
+      "group": "STATIONS",
+      "type": "auction house",
+      "x": -48,
+      "y": 98,
+      "z": -43
+    },
+    {
+      "group": "WAYSTONES",
+      "type": "waystone",
+      "name": "Intro Town Waystone",
+      "x": -76,
+      "y": 95,
+      "z": -43
+    },
+    {
+      "group": "STATIONS",
+      "type": "fletching",
+      "x": -20,
+      "y": 96,
+      "z": -75
+    },
+    {
+      "group": "STATIONS",
+      "type": "bank",
+      "x": -91,
+      "y": 100,
+      "z": -48
+    },
+    {
+      "group": "STATIONS",
+      "type": "runecrafting",
+      "x": -65,
+      "y": 94,
+      "z": -88
+    },
+    {
+      "group": "STATIONS",
+      "type": "alchemy",
+      "x": -51,
+      "y": 94,
+      "z": -101
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -143,
+      "y": 122,
+      "z": -85
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -157,
+      "y": 123,
+      "z": -42
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -109,
+      "y": 123,
+      "z": -80
+    },
+    {
+      "group": "STATIONS",
+      "type": "bank",
+      "x": -90,
+      "y": 100,
+      "z": -51
+    },
+    {
+      "group": "STATIONS",
+      "type": "merchant",
+      "x": -67,
+      "y": 97,
+      "z": -78
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -170,
+      "y": 110,
+      "z": -93
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -186,
+      "y": 126,
+      "z": -42
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -194,
+      "y": 111,
+      "z": -73
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -176,
+      "y": 107,
+      "z": -120
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -229,
+      "y": 72,
+      "z": -76
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -240,
+      "y": 97,
+      "z": -57
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -230,
+      "y": 98,
+      "z": -69
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "oak tree",
+      "x": -218,
+      "y": 106,
+      "z": -113
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -250,
+      "y": 61,
+      "z": -90
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -259,
+      "y": 68,
+      "z": -64
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -255,
+      "y": 60,
+      "z": -119
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -257,
+      "y": 69,
+      "z": -74
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -243,
+      "y": 72,
+      "z": -70
+    },
+    {
+      "group": "WOODCUTTING",
+      "type": "birch tree",
+      "x": -244,
+      "y": 106,
+      "z": -113
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -239,
+      "y": 60,
+      "z": -111
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -262,
+      "y": 56,
+      "z": -97
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -263,
+      "y": 68,
+      "z": -92
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -292,
+      "y": 65,
+      "z": -106
+    },
+    {
+      "group": "MINING",
+      "type": "copper ore",
+      "x": -280,
+      "y": 64,
+      "z": -77
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -292,
+      "y": 59,
+      "z": -89
+    },
+    {
+      "group": "MINING",
+      "type": "tin ore",
+      "x": -308,
+      "y": 64,
+      "z": -111
+    },
+    {
+      "group": "MINING",
+      "type": "coal",
+      "x": -316,
+      "y": 62,
+      "z": -98
+    },
+    {
+      "group": "SHRINES",
+      "type": "shrine",
+      "name": "Saltyre Shrine",
+      "x": 388,
+      "y": 79,
+      "z": 947
+    },
+    {
+      "group": "SHRINES",
+      "type": "shrine",
+      "name": "Wharfmolo Shrine",
+      "x": -47,
+      "y": 133,
+      "z": 579
+    },
+    {
+      "group": "SHRINES",
+      "type": "shrine",
+      "name": "Plains Shrine",
+      "x": -100,
+      "y": 124,
+      "z": -93
+    },
+    {
+      "group": "SHRINES",
+      "type": "shrine",
+      "name": "Tortuga Shrine",
+      "x": 422,
+      "y": 64,
+      "z": 1619
+    }
+  ]
+}
