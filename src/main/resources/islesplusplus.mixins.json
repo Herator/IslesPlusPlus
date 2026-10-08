@@ -1,0 +1,17 @@
+{
+	"required": true,
+	"package": "com.islesplusplus.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [],
+	"client": [
+		"EntityGlowMixin",
+		"FontsMixin",
+		"HudElementsMixin",
+		"IslesPlusConfigMixin",
+		"ItemPickupMixin",
+		"RowsMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
