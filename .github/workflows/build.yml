@@ -1,0 +1,37 @@
+# Builds Isles++ and runs its tests on every push and pull request; the jar is attached to each run.
+# Isles+ isn't in this repo (All Rights Reserved), so the official jar is downloaded from its GitHub release.
+
+name: build
+on: [push, pull_request, workflow_dispatch]
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v7
+      - name: validate gradle wrapper
+        uses: gradle/actions/wrapper-validation@v6
+      - name: setup jdk
+        uses: actions/setup-java@v6
+        with:
+          java-version: '21'
+          distribution: 'microsoft'
+      - name: setup gradle
+        uses: gradle/actions/setup-gradle@v6
+      - name: download Isles+
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # the jar named by islesplus_jar in gradle.properties, from the matching Isles+ release
+          jar=$(grep '^islesplus_jar=' gradle.properties | cut -d= -f2)
+          version=$(basename "$jar" .jar | sed 's/^islesplus-//')
+          mkdir -p "$(dirname "$jar")"
+          gh release download "v$version" -R TMP-devs/IslesPlus -p "$(basename "$jar")" -D "$(dirname "$jar")"
+      - name: build
+        run: ./gradlew build
+      - name: upload jar
+        uses: actions/upload-artifact@v7
+        with:
+          name: islesplusplus
+          path: build/libs/
