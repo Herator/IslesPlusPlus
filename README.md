@@ -2,7 +2,7 @@
 
 An addon for [Isles+](https://github.com/TMP-devs/IslesPlus). Needs Isles+ 1.0.3 or newer installed next to it.
 
-<!-- TODO: screenshot of the map here -->
+![full map](screenshots/map.png)
 
 Started as a few things I wanted in Isles+ and kept growing. What's in it:
 
@@ -14,6 +14,10 @@ Started as a few things I wanted in Isles+ and kept growing. What's in it:
 - **Health Border** - screen edges glow red as your HP drops
 - Item Pickups: shows what you pick up with the icon and amount
 - Glow on all ground items
+
+<img src="screenshots/minimap.png" width="200"> <img src="screenshots/show-panel.png" width="160">
+
+<img src="screenshots/waypoints.png" width="450"> <img src="screenshots/add-waypoint.png" width="350">
 
 Settings are in the Isles+ menu (QOL tab). The minimap and Item Pickups can be moved in the HUD editor, keys are under Options > Controls > Isles++.
 Everything saves to `config/islesplusplus/`. If you had a map from back when this was part of Isles+ (`config/islesplus/map`) it gets moved over on first start.
